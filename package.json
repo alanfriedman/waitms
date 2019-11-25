@@ -1,0 +1,9 @@
+{
+  "name": "waitms",
+  "version": "1.0.0",
+  "description": "Promise-based timeout",
+  "main": "index.js",
+  "repository": "https://github.com/github:alanfriedman/waitms",
+  "author": "Alan Friedman",
+  "license": "MIT"
+}
